@@ -4,7 +4,7 @@
   "description": "web crawler to crawl through websites",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node --no-warnings index.js",
     "test": "jest"
   },
   "repository": {
